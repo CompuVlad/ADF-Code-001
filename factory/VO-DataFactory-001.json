@@ -1,0 +1,9 @@
+{
+	"name": "VO-DataFactory-001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74e04ac2-7394-42b0-bffd-64f86538c0cd",
+		"tenantId": "9c45b1bd-af1a-4831-92d9-ad13179367e9"
+	}
+}
